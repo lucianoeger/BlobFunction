@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "BlobFunction": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker",
+      "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}",
+      "httpPort": 34272,
+      "useSSL": false
+    }
+  }
+}
